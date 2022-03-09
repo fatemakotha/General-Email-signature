@@ -1,0 +1,85 @@
+
+.con-1 {
+  background-color: white;
+  font-size: 20px;
+}
+
+h1 {
+  color: blue;
+}
+
+h6 {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.pic {
+  height: 100px;
+  width: 100px;
+  margin-right: 10px;
+}
+.name {
+  margin: 0px;
+  color: #3399CC;
+  font-weight: bold;
+}
+
+.designation {
+  margin: 0px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.contact {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.phone {
+  color: #3399CC;
+  margin: 0px;
+}
+.mobile {
+  color: #3399CC;
+}
+.web {
+  margin: 0px;
+
+}
+.address {
+  margin: 0px;
+  c
+}
+
+.web-add {
+  color: #3399CC;
+}
+
+.my-add {
+  color: #3399CC;
+}
+.fa-twitter-square {
+  color: #00ACEE;
+}
+.fa-linkedin-square {
+  color: #0e76a8;
+}
+
+.fa-google-plus-square {
+  color: #db4a39;
+}
+
+
+
+
+
+
+.con-3 {
+  background-color: yellow;
+  text-align: inherit;
+  margin-left: 110px;
+}
+.vertical-line {
+  border-right: 1px solid;
+}
+.text-block {
+  padding-left: 8px;
+}
